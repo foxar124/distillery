@@ -1,0 +1,22 @@
+{
+	"name": "formula-name",
+	"desc": "Description of the formula",
+	"homepage": "https://example.com",
+	"versions": {
+		"stable": "1.0.0",
+		"devel": null,
+		"head": "HEAD"
+	},
+	"bottle": {
+		"stable": {
+			"rebuild": 1,
+			"cellar": ":any",
+			"files": {
+				"arm64_big_sur": {
+					"url": "https://example.com/bottle.tar.gz",
+					"sha256": "abc123"
+				}
+			}
+		}
+	}
+}

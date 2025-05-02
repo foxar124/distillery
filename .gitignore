@@ -1,0 +1,6 @@
+.idea/
+/dist
+public/
+.env*
+*.key
+installer.*

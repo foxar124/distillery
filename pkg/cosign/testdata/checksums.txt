@@ -1,0 +1,16 @@
+2c73a240c7e877014352244f0f2f9691f5cc658ea120e3f17f7c25d4bf5625ed  distillery-v1.0.0-beta.5-darwin-amd64.tar.gz
+499b852f065051ea5b05790cf51357f615d5c33ba6fb1955861332c1f922cf53  distillery-v1.0.0-beta.5-darwin-amd64.tar.gz.sbom.json
+2c4f2db1abb14eb159a999e9d4b584756f3736f87b4ee8bdf17666ec5e38c25e  distillery-v1.0.0-beta.5-darwin-arm64.tar.gz
+3ce280ad2562775f922f46f12a9292a8018f8d1bfb36f50c2df8a7bd82f135a7  distillery-v1.0.0-beta.5-darwin-arm64.tar.gz.sbom.json
+9c60da14c6f8c19902ae049136ef57b28b6beaa9be540be432b8b48e28a79d67  distillery-v1.0.0-beta.5-freebsd-amd64.tar.gz
+2aaea7a9c527f1cc3c5b2ff8eeb49b31640a700b8ef59f444903217f399e457f  distillery-v1.0.0-beta.5-freebsd-amd64.tar.gz.sbom.json
+e76feb402d57594bf5fbaa264377dedd0f702947bba8e69a81c0af47a624135d  distillery-v1.0.0-beta.5-freebsd-arm64.tar.gz
+2ec175aa5b7d9ac28d3a02a44f704e651563f2fd02e3f5bd1519a0a5db35c941  distillery-v1.0.0-beta.5-freebsd-arm64.tar.gz.sbom.json
+6a25f595bcc64b079551ba26da1afe01bb66c3e822606b9200ee62bb2e62f44e  distillery-v1.0.0-beta.5-linux-amd64.tar.gz
+0398526313f08b3a07fe591918e5b3bb5003ee75b674fd3da2baf388cd59f999  distillery-v1.0.0-beta.5-linux-amd64.tar.gz.sbom.json
+34b46e4ab7545328df658dc5c131a465ca3322499ff944675ad660625c853978  distillery-v1.0.0-beta.5-linux-arm64.tar.gz
+6b833db31e577903008688266f7d0becfd2a79b1c10af32d065667c08d40b4ed  distillery-v1.0.0-beta.5-linux-arm64.tar.gz.sbom.json
+0abd6e72199274848dfd5f698fe64a64c10853723a8e0f70062e74b5b336fc63  distillery-v1.0.0-beta.5-windows-amd64.zip
+51a11cbcddc44208172334e31582252c6125dcd8d5c854d3caf52d19c9670205  distillery-v1.0.0-beta.5-windows-amd64.zip.sbom.json
+4b484f487873922cb60eda0d0e12727043048e1f694c34570bb55ce5ce375368  distillery-v1.0.0-beta.5-windows-arm64.zip
+9cacc506317f27b3a7df9c1d88de635dcc861fada553a4c0fa7f8532ace834cd  distillery-v1.0.0-beta.5-windows-arm64.zip.sbom.json

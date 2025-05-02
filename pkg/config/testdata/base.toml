@@ -1,0 +1,9 @@
+path = "/home/test/.distillery"
+cache_path = "/home/test/.cache"
+
+[aliases]
+dist = "ekristen/distillery"
+
+  [aliases.aws-nuke]
+  name = "ekristen/aws-nuke"
+  version = "3.29.3"

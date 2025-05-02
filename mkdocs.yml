@@ -1,0 +1,78 @@
+site_name: Distillery
+site_url: https://ekristen.github.io/distillery
+site_author: Erik Kristensen
+site_description: >-
+  Install any binary from any source, well ideally. A package manager without packages. Like homebrew, but less fizz (aka no package management)
+
+repo_name: ekristen/distillery
+repo_url: https://github.com/glamorousis/distillery
+
+copyright: Copyright &copy; 2024 - Erik Kristensen
+
+site_dir: public
+
+# Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  features:
+    - navigation.footer
+    - navigation.indexes
+    - navigation.path
+    - navigation.expand
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - content.tabs.link
+    - search.highlight
+    - search.share
+    - search.suggest
+
+# Plugins
+plugins:
+  - search
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+# Page tree
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Config:
+    - Overview: config.md
+    - Aliases: config/aliases.md
+  - Distfile: distfile.md
+  - Architecture: architecture.md
+  - Supported Sources: sources.md
+
